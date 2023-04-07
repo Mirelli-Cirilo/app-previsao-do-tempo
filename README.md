@@ -1,20 +1,30 @@
 # app-previsao-do-tempo
 Aplicação de previsão do tempo que utiliza dados da api de tempo OpenWeatherMap.
 
+TECNOLOGIAS: Python, Django, Html, Css.
+
 # PARA CLONAR O REPOSITÓRIO:
 
-use o comando - "git clone https://github.com/Mirelli-Cirilo/app-previsao-do-tempo.git"
+use o comando 
 
-depois entre na pasta do projeto - "cd weather_app"
+```git clone https://github.com/Mirelli-Cirilo/app-previsao-do-tempo.git```
+
+depois entre na pasta do projeto 
+
+```cd weather_app```
+
+instale os 'requirements' 
+
+```pip install -r requirements.txt```
 
 crie um ambiente virtual
 
--/ primeiro instale o virtualenv - "pip install virtualenv"
+```virtualenv nomedoenv```
 
--/ agora crie seu ambiente virtual - "virtualenv nomedoenv"
+ative seu ambiente virtual 
 
-ative seu ambiente virtual - "nomedoenv\scripts\activate"
+```nomedoenv\scripts\activate - windows```
 
-instale os 'requirements' - "pip install -r requirements.txt"
+pra rodar a app use 
 
-pra rodar a app use - "python manage.py runserver"
+```python manage.py runserver```
