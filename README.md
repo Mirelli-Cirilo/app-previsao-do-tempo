@@ -13,10 +13,6 @@ depois entre na pasta do projeto
 
 ```cd weather_app```
 
-instale os 'requirements' 
-
-```pip install -r requirements.txt```
-
 crie um ambiente virtual
 
 ```virtualenv nomedoenv```
@@ -24,6 +20,10 @@ crie um ambiente virtual
 ative seu ambiente virtual 
 
 ```nomedoenv\scripts\activate - windows```
+
+instale os 'requirements' 
+
+```pip install -r requirements.txt```
 
 pra rodar a app use 
 
